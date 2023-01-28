@@ -1,0 +1,11 @@
+# idea configurations
+/.vscode/
+/.idea/
+
+# temporary files storage
+/temp/
+/tmp/
+
+# emacs caches and backup files
+\#*\#
+*~
