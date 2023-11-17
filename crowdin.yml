@@ -1,10 +1,8 @@
 project_id: 628470
-base_path: "/profile"
-
+base_path: /profile
 files:
-    - source: README.md
-      translation: /i18n/%locale%_%original_file_name%
-
-pull_request_title: "[I18N] Translation(s) update"
-commit_message: "%original_name% translation from Crowdin (%language%)"
-append_commit_message: false
+  - source: README.md
+    translation: /i18n/%locale%_%original_file_name%
+pull_request_title: '[I18N] Translation(s) update'
+commit_message: '%original_name% translation from Crowdin (%language%)'
+append_commit_message: 
