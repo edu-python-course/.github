@@ -1,1 +1,1 @@
-# Public Orgranization Information
+# Organization public profile
