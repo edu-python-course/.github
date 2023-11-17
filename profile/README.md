@@ -9,3 +9,7 @@
 ## Resources
 
 [//]: # (todo: add links to resources within organization and outside it)
+
+## Mailing lists
+
+[//]: # (todo: add owners, teams and/or persons within this organization)
