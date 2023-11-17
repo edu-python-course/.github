@@ -3,7 +3,7 @@ base_path: "/profile"
 
 files:
     - source: README.md
-      translation: i18n/%locale%_%original_file_name%
+      translation: /i18n/%locale%_%original_file_name%
 
 pull_request_title: "[I18N] Translation(s) update"
 commit_message: "%original_name% translation from Crowdin (%language%)"
